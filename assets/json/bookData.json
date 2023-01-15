@@ -1,0 +1,121 @@
+{
+    "result": [
+        {
+            "id": 13853,
+            "title": "New National First Reader",
+            "author": "Harlan Hoge Ballard",
+            "img":"https://www.gutenberg.org/cache/epub/13853/pg13853.cover.medium.jpg",
+            "Language": "English",
+            "Subject": [
+                "Readers"
+            ],
+            "Category": "Text",
+            "Release Date": "Jun 1, 1998",
+            "Copyright Status": "Public domain in the USA.",
+            "Downloads": 23,
+            "read_link": "https://gutenberg.org/ebooks/13853.epub.images?session_id=493985abeea18059a91b13a1cff5ed20d8412934",
+            "download_link": "https://gutenberg.org/files/13853/13853-pdf.pdf"
+        },
+        {
+            "id": 	19967,
+            "title": "Beauty and the Beast",
+            "author": "Anonymous",
+            "img":"https://www.gutenberg.org/cache/epub/19967/pg19967.cover.medium.jpg",
+            "Language": "English",
+            "Subject": [
+                "Fairy tales"
+            ],
+            "Category": "Text",
+            "Release Date": "Nov 30, 2006",
+            "Copyright Status": "Public domain in the USA.",
+            "Downloads": 191,
+            "read_link": "https://gutenberg.org/ebooks/19967.epub.images?session_id=493985abeea18059a91b13a1cff5ed20d8412934",
+            "download_link": "https://gutenberg.org/files/19967/19967-pdf.pdf"
+        },
+        {
+            "id": 	25274,
+            "title": "Rollo at Work",
+            "author": "Abbott Jacob",
+            "img":"https://www.gutenberg.org/cache/epub/25274/pg25274.cover.medium.jpg",
+            "Language": "English",
+            "Subject": [
+                "Children -- Conduct of life -- Juvenile fiction",
+                "Farm life -- Juvenile fiction"
+            ],
+            "Category": "Text",
+            "Release Date": "May 1, 2008",
+            "Copyright Status": "Public domain in the USA.",
+            "Downloads": 13 ,
+            "read_link": "https://gutenberg.org/ebooks/25274.epub.images?session_id=d517ae1430f406317ea78559ec56e8e3177d2e64",
+            "download_link": "https://gutenberg.org/files/25274/old/25274-pdf.pdf"
+        },
+        {
+            "id": 	16663,
+            "title": "The Tale of Solomon Owl",
+            "author": "Arthur Scott",
+            "img":"https://www.gutenberg.org/cache/epub/16663/pg16663.cover.medium.jpg",
+            "Language": "English",
+            "Subject": [
+                "Animals -- Juvenile fiction",
+                "Owls -- Juvenile fiction"
+            ],
+            "Category": "Text",
+            "Release Date": "Sep 5, 2005",
+            "Copyright Status": "Public domain in the USA.",
+            "Downloads": 43  ,
+            "read_link": "https://gutenberg.org/ebooks/16663.epub.images?session_id=d517ae1430f406317ea78559ec56e8e3177d2e64",
+            "download_link": "https://gutenberg.org/files/16663/old/16663-pdf.pdf"
+        },
+        {
+            "id": 	161,
+            "title": "Sense and Sensibility",
+            "author": "Austen Jane",
+            "img":"https://www.gutenberg.org/cache/epub/161/pg161.cover.medium.jpg",
+            "Language": "English",
+            "Subject": [
+                "Inheritance and succession -- Fiction",
+                "England -- Fiction",
+                "Young women -- Fiction"
+            ],
+            "Category": "Text",
+            "Release Date": "Sep 1, 1994",
+            "Copyright Status": "Public domain in the USA.",
+            "Downloads": 3965   ,
+            "read_link": "https://gutenberg.org/ebooks/161.epub.images?session_id=d517ae1430f406317ea78559ec56e8e3177d2e64",
+            "download_link": "https://gutenberg.org/files/161/old/161-pdf.pdf"
+        },
+        {
+            "id": 	43985,
+            "title": "Domitia",
+            "author": "Baring Gould",
+            "img":"https://www.gutenberg.org/cache/epub/43985/pg43985.cover.medium.jpg",
+            "Language": "English",
+            "Subject": [
+                "History Fiction"
+            ],
+            "Category": "Text",
+            "Release Date": "Oct 20, 2013",
+            "Copyright Status": "Public domain in the USA.",
+            "Downloads": 9    ,
+            "read_link": "https://gutenberg.org/ebooks/43985.epub.images?session_id=d517ae1430f406317ea78559ec56e8e3177d2e64",
+            "download_link": "https://gutenberg.org/files/43985/old/43985-pdf.pdf"
+        },
+        {
+            "id": 	39400,
+            "title": "Christ's Journal",
+            "author": "Paul Alexander",
+            "img":"https://www.gutenberg.org/cache/epub/39400/pg39400.cover.medium.jpg",
+            "Language": "English",
+            "Subject": [
+                "Historical fiction",
+                "Diary fiction"
+            ],
+            "Category": "Text",
+            "Release Date": "Apr 8, 2012",
+            "Copyright Status": "Public domain in the USA.",
+            "Downloads": 16     ,
+            "read_link": "https://gutenberg.org/ebooks/39400.epub.images?session_id=d517ae1430f406317ea78559ec56e8e3177d2e64",
+            "download_link": "https://gutenberg.org/files/39400/39400-pdf.pdf"
+        }
+    ]
+}
